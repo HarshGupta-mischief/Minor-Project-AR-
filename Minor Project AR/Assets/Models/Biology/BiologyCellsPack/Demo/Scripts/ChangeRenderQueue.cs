@@ -5,7 +5,8 @@ using UnityEngine;
 public class ChangeRenderQueue : MonoBehaviour
 {
     public int Value = 3000;
-   
+    
+    
     void Start()
     {
 
